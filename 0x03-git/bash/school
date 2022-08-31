@@ -1,2 +1,4 @@
--e#!/bin/bash\n echo"school" 
--e#!/bin/bash\n echo"School" 
+#!/bin/bash
+ echo "school"
+#!/bin/bash
+ echo "school"
